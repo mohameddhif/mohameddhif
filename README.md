@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer</h3>
 
 <p align="center">
-Building web apps end-to-end — React/Next.js on the front, Node/Express + PostgreSQL on the back.
+Building web apps end-to-end | React/Next.js on the front, Node/Express + PostgreSQL on the back.
 </p>
 
 - 🌱 Currently learning software architecture & system design
